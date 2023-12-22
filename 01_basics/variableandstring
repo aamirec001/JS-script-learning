@@ -1,9 +1,0 @@
-const name = "Hitesh"
-
-// old method
-console.log ("Instructor name is" + name)
-console.log ("Instructor name is" + " "+ name)
-
-// new method
-
-
